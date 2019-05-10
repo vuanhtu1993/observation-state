@@ -32,5 +32,5 @@ module. Từ đó hoàn toàn có thể export và import nó ở bất cứ ch�
 client load sẽ trở nên khó khăn và ảnh hưởng đến trải nghiệm. Như vậy webpack có một số
 cơ chế để tách nhỏ file bundle thành nhiều file ứng với mục đích khác nhau.
 
-Link ref source pure react: 
+Link ref source pure react: https://github.com/vuanhtu1993/observation-state
 
